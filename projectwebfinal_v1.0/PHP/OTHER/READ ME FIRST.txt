@@ -1,0 +1,6 @@
+Notes:
+-These scripts are intended for initialization purposes
+and should be run only once to avoid creating duplicate data in the database.
+
+-First run the db_initialize_categories_with_JSON.php
+-Then run the db_initialize_items_with_JSON.php

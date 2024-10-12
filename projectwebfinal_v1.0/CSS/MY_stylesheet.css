@@ -1,0 +1,11 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #3c4651;
+	color: white;
+	outline: none;
+}
+
+textarea {
+	background-color: #1f2933;
+	color: white;
+}

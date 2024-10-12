@@ -1,0 +1,224 @@
+{
+    "code": 1,
+    "message": "Retrieved successfully",
+    "items": [
+        {
+            "id": "1",
+            "name": "Water",
+            "category": "2",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "41"
+                },
+                {
+                    "detail_name": "volume",
+                    "detail_value": "1.5l"
+                },
+                {
+                    "detail_name": "pack size",
+                    "detail_value": "6"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Coca-Cola",
+            "category": "2",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "24"
+                },
+                {
+                    "detail_name": "volume",
+                    "detail_value": "0.5l"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Fanta-Lemon",
+            "category": "2",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "110"
+                },
+                {
+                    "detail_name": "volume",
+                    "detail_value": "1l"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Bread",
+            "category": "1",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "78"
+                },
+                {
+                    "detail_name": "weight",
+                    "detail_value": "500g"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Peanuts",
+            "category": "1",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "276"
+                },
+                {
+                    "detail_name": "weight",
+                    "detail_value": "100g"
+                },
+                {
+                    "detail_name": "pack size",
+                    "detail_value": "3"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Potatoes",
+            "category": "1",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "175"
+                },
+                {
+                    "detail_name": "weight",
+                    "detail_value": "1.5kg"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "T-Shirt",
+            "category": "3",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "45"
+                },
+                {
+                    "detail_name": "size",
+                    "detail_value": "L"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Shorts",
+            "category": "3",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "3"
+                },
+                {
+                    "detail_name": "size",
+                    "detail_value": "S"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Sneakers",
+            "category": "3",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "12"
+                },
+                {
+                    "detail_name": "size",
+                    "detail_value": "44,5"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Bandages",
+            "category": "4",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "345"
+                },
+                {
+                    "detail_name": "type",
+                    "detail_value": "sticky"
+                },
+                {
+                    "detail_name": "pack size",
+                    "detail_value": "15"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Covid-Vaccine",
+            "category": "4",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "23"
+                },
+                {
+                    "detail_name": "company",
+                    "detail_value": "pfizer"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "name": "Table",
+            "category": "6",
+            "details": [
+                {
+                    "detail_name": "quantity",
+                    "detail_value": "12"
+                },
+                {
+                    "detail_name": "material",
+                    "detail_value": "wood"
+                }
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "id": "1",
+            "category_name": "Food"
+        },
+        {
+            "id": "2",
+            "category_name": "Drinks"
+        },
+        {
+            "id": "3",
+            "category_name": "Clothes"
+        },
+        {
+            "id": "4",
+            "category_name": "First Aid"
+        },
+        {
+            "id": "5",
+            "category_name": "Electronics"
+        },
+        {
+            "id": "6",
+            "category_name": "Household"
+        }
+    ]
+}

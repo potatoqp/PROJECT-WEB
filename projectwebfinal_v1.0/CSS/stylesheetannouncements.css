@@ -1,0 +1,41 @@
+* {
+    background-color: orange;
+}
+
+#announce {
+    font-family: cursive;
+    text-align: center;
+    font-size: xx-large;
+    text-shadow: 5px 5px 10px gray;
+    text-decoration: underline;
+    
+}
+
+#newest {
+    text-align: center;
+    font-family: cursive;
+}
+
+#listofannounce  {
+    font-family: cursive;
+    
+    margin-left: 880px;
+}
+
+#logout {
+    height: 30px;
+    width: 80px;
+    background-color: red;
+    color: black;
+}
+
+#logoutButton {
+    text-align: right;
+    margin-right: 350px;
+}
+
+
+
+
+
+
